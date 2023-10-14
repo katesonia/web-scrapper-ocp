@@ -1,0 +1,4 @@
+node_modules/
+calender_view_scrapper.js
+scrapped_calender_view_data.json
+.DS_Store
